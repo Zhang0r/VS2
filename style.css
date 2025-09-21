@@ -190,7 +190,7 @@ input, select, textarea {
 button[type="submit"] {
     background: #1e3a8a;
     color: white;
-    
+    border: none;
     padding: 12px;
     margin-top: 15px;
     border-radius: 8px;
